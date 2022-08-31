@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#gameBoard{
+    border: 3px solid;
+}
+
+body{
+  background-color: bisque;
+}
+
+#gameContainer{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#scoreText{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-size: 40px;
+}
+#resetBtn{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-size: 30px;
+    margin-right: 55px;
+    height: 40px;
+    width: 100px;
+    float: right;
+    cursor: pointer;
+    border-radius: 30px;
+    
+}
