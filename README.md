@@ -1,4 +1,4 @@
 # snakeGame 
 
 
-A snake game Using vanilla JS, nothing other than code was used, made with the help of Bro Code https://www.youtube.com/watch?v=Je0B3nHhKmM&list=PLZPZq0r_RZOMRMjHB_IEBjOW_ufr00yG1&index=90
+A snake game Using vanilla JS, as requested by customer, made design and code as well as ensure a good user exprience added features.
